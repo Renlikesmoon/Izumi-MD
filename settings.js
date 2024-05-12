@@ -1,4 +1,4 @@
-// S C R I P T  O R I  B Y  KIZH MD 🔭
+// S C R I P Tv  O R I  B Y  KIZH MD 🔭
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO ALL
