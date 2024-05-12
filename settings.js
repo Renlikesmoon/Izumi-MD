@@ -18,6 +18,7 @@ global.prefa = ['','!','.',',','🐤','🗿'] // JANGAN DI UBAH KALAU GAK MAU ER
 
 // WATERMARK //
 
+global.token = "Kazik" // token wa
 global.v = 'IZUMI MD' // GANTI AJA
 global.wm = 'kizh | dingin' // GANTI AJA
 global.packname = ""
